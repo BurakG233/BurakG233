@@ -72,7 +72,7 @@
 ---
 
 ## 📬 İletişim | Contact
-- 📧 (kendi mailini buraya yazabilirsin)
+- instagram: @Burakguney233
 
 <p align="center">
   ⭐ Profilimi ziyaret ettiğin için teşekkür ederim! <br>
