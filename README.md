@@ -1,9 +1,5 @@
 <h1 align="center">Merhaba, ben Burak Güney! 👋</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BurakG233&color=blue&style=flat-square" alt="Profile Views" />
-</p>
-
 ---
 
 ### 🚀 Hakkımda
