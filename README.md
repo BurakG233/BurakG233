@@ -21,9 +21,3 @@
 </p>
 
 ---
-
-### 📊 GitHub İstatistiklerim
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BurakG233&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Burak's GitHub Stats" />
-</p>
